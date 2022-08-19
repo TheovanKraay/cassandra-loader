@@ -1,4 +1,4 @@
-# cassandra-load-tester
+# cassandra-loader
 
 The sample creates a simple keyspace and table with a multi-threaded app, and throws data in based on threads and no. of records.
 
