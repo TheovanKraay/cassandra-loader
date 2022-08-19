@@ -1,6 +1,6 @@
 # cassandra-load-tester
 
-The samples creates a simple keyspace and table with a multi-threaded app, and throws data in based on threads and no. of records.
+The sample creates a simple keyspace and table with a multi-threaded app, and throws data in based on threads and no. of records.
 
 ## Prerequisites
 * Before you can run this sample, you must have the following :
